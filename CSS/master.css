@@ -1,7 +1,23 @@
-.jumbotron{
+.jumbotron {
   background: #001591;
 }
-.text{
 
-  color:  white:
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+h6 {
+  text-align: center;
+}
+
+p {
+  text-align: center
 }
